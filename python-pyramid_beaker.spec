@@ -10,7 +10,7 @@ Release:	1
 License:	BSD-derived (http://www.repoze.org/LICENSE.txt)
 Group:		Libraries/Python
 Source0:	http://pypi.python.org/packages/source/p/pyramid_beaker/%{module}-%{version}.tar.gz
-# Source0-md5:	d72b664cf3852570faa44a81eb0e448b
+# Source0-md5:	acb863517a98b90b5f29648ce55dd563
 URL:		http://docs.pylonsproject.org/projects/pyramid_beaker/
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
