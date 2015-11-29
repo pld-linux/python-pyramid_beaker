@@ -14,7 +14,7 @@ Source0:	http://pypi.python.org/packages/source/p/pyramid_beaker/%{module}-%{ver
 URL:		http://docs.pylonsproject.org/projects/pyramid_beaker/
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-Beaker
 Requires:	python-pyramid
 BuildArch:	noarch
